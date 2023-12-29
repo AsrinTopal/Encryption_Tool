@@ -80,6 +80,7 @@ A secret key is necessary for both encryption and decryption. This key is used t
 #
 #### User-Friendly GUI
 The graphical user interface of the program is intended to improve the user experience. It provides an easy-to-use platform for users to enter text and keystrokes. The simple design guarantees that users may simply encrypt and decode files without having to deal with additional complexity. The GUI helps to make the encryption and decryption operations more accessible to people with a variety of technical backgrounds.
+
 [![main](https://i.postimg.cc/Gm9t6Btj/image-2023-12-29-225723502.png)](https://postimg.cc/QFGjTdpB)
 [![encrypt](https://i.postimg.cc/50ysCS2C/image-2023-12-29-225828434.png)](https://postimg.cc/WFRmRrrN)
 [![emain](https://i.postimg.cc/L8Tdkv2C/image-2023-12-29-225919064.png)](https://postimg.cc/LJn02tqL)
